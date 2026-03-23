@@ -28,3 +28,10 @@ cd ../.. = ย้อน 2 ระดับ
 mkdir (name) = สร้างโฟลเดอร์
 open = เปิดโฟลเดอร์
 clear / control + k = ล้างจอ terminal
+
+Additional commands
+git diff --> ดูความแตกต่างของไฟล์ที่แก้ไข
+git diff --staged --> ดูความต่างของไฟล์ที่ add แล้ว
+git help --> ดูคำสั่งและวิธีใช้ git
+git log --> ดูประวัติ commit แบบเต็ม
+git log --oneline --> ดูประวัติแบบสั้น
