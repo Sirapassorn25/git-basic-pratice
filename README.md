@@ -35,3 +35,4 @@ git diff --staged --> ดูความต่างของไฟล์ที�
 git help --> ดูคำสั่งและวิธีใช้ git
 git log --> ดูประวัติ commit แบบเต็ม
 git log --oneline --> ดูประวัติแบบสั้น
+git add . --> เพิ่มทุกไฟล์เข้า staging
