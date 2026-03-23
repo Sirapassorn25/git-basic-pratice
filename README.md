@@ -17,3 +17,14 @@ Git Commands
 5. git commit -m "(commit msg)" --> นำไฟล์ที่อยู่บน staging ไปเตรียมพร้อมสำหรับ push (เหมือนแปะป้ายหน้ากล่อง)
 ุ6. git push --> ส่ง commit จากเครื่องเราไป remote
 7. git pull --> ดึงข้อมูลล่าสุดจาก remote มาเครื่องเรา
+8. git fetch --> ดึงข้อมูลจาก remote โดยยังไม่ merge
+
+Terminal Commands
+pwd = ดู path ปัจจุบันที่อยู่
+ls = ดูรายการไฟล์ โฟลเดอร์
+cd folder-name = เข้าไปยัง folder-name
+cd .. = ย้อน 1 ระดับ
+cd ../.. = ย้อน 2 ระดับ
+mkdir (name) = สร้างโฟลเดอร์
+open = เปิดโฟลเดอร์
+clear / control + k = ล้างจอ terminal
